@@ -33,10 +33,6 @@ We begin our analysis by exploring the dataset to uncover relationships between 
 ## Conclusion
 By examining customer behaviors and logistical details, we discover important insights into the factors influencing delivery times. With predictive models in hand, we can predict potential delays and take proactive measures to improve our operations, ultimately enhancing customer satisfaction.
 
-## Usage
-1. Clone the repository.
-2. Open the notebook in Jupyter environment or any Python IDE.
-3. Run the notebook cells sequentially.
 
 ## Libraries Used
 - numpy
