@@ -8,7 +8,7 @@ Predicting customer churn is crucial for businesses to retain customers and impr
 ## Diabetes Classification
 Diabetes is a prevalent health condition worldwide, and early detection is essential for effective management. This project involves building classification model to predict whether a patient has diabetes based on various health indicators.
 
-## Heart Stroke Data Analysis
+## Heart Stroke Prediction
 Heart stroke is a severe medical emergency that requires timely intervention. This project involves analyzing data related to heart health to identify factors contributing to the risk of stroke and develop predictive models for early detection.
 
 ## Sales Data Analytics
