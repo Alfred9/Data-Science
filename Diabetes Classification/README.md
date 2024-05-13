@@ -13,7 +13,7 @@ Exploratory Data Analysis (EDA): Dive into the data, understand its characterist
 
 Data Visualization: Explore relationships between features and the target variable (diabetes) using visuals like correlation matrices and boxplots.
 
-Data Splitting: Divide the data into training (70%) and testing (30%) sets for model training and evaluation.
+Data Splitting: Divide the data into training  and testing  sets for model training and evaluation.
 
 ## **Model Training and Evaluation:**
 Data Preprocessing: Normalize numeric features and one-hot encode categorical features.
