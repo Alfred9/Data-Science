@@ -1,7 +1,7 @@
 # E-Commerce Product Delivery Prediction
 
 ## Introduction
-In this project, we conduct an analysis to understand the factors influencing on-time delivery in our e-commerce operations. We explore relationships between various aspects such as product properties, logistics operations, and customer experiences, and their impact on delivery performance. Our aim is to build predictive models using machine learning techniques to forecast delivery timelines accurately.
+In this project, we conduct an analysis to understand the factors influencing on-time delivery in  e-commerce operations. We explore relationships between various aspects such as product properties, logistics operations, and customer experiences, and their impact on delivery performance. Our aim is to build predictive models using machine learning techniques to forecast delivery timelines accurately.
 
 ## Data Dictionary
 The dataset contains the following information:
