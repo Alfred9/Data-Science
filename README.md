@@ -17,6 +17,10 @@ Analyzing the distribution of chronic diseases in US states over a certain perio
 ## E-Commerce Product Delivery Prediction
 In this project, we conduct an analysis to understand the factors influencing on-time delivery in e-commerce operations. We explore relationships between various aspects such as product properties, logistics operations, and customer experiences, and their impact on delivery performance. Our aim is to build predictive models using machine learning techniques to forecast delivery timelines accurately.
 
+## Healthcare Accessibility in Nairobi: A Data-Driven Analysis
+This project analyzes healthcare accessibility challenges in Nairobi, focusing on the uneven distribution of healthcare facilities, demographic disparities, and service gaps. Using data on healthcare infrastructure and population demographics, the study provides insights into key disparities and suggests targeted recommendations in line with **Sustainable Development Goal 3 (SDG 3)**, aiming to improve access to healthcare for all Nairobi residents.
+
+
 ## NOTE
 Each project directory contains the necessary files, including datasets, code scripts, and documentation, to facilitate understanding and reproduction of the analysis. Feel free to explore each project for more details and insights.
 
